@@ -1,0 +1,6 @@
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\bin\Debug\l337Converter.exe.config
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\bin\Debug\l337Converter.exe
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\bin\Debug\l337Converter.pdb
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\obj\Debug\l337Converter.csproj.CoreCompileInputs.cache
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\obj\Debug\l337Converter.exe
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\l337Converter\obj\Debug\l337Converter.pdb

@@ -1,0 +1,7 @@
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\bin\Debug\VowelsandConsonants.exe.config
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\bin\Debug\VowelsandConsonants.exe
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\bin\Debug\VowelsandConsonants.pdb
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\obj\Debug\VowelsandConsonants.csprojAssemblyReference.cache
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\obj\Debug\VowelsandConsonants.csproj.CoreCompileInputs.cache
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\obj\Debug\VowelsandConsonants.exe
+C:\Users\zachd\OneDrive\Desktop\Homework4\Homework 4\VowelsandConsonants\obj\Debug\VowelsandConsonants.pdb
